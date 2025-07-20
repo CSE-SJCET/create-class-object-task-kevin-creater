@@ -21,6 +21,4 @@
         student.displayDetails();
     }
 }
-        // TODO: Create a Student object and call the method to display details
-    }
-}
+       
