@@ -1,6 +1,6 @@
     
 
-            class Student{
+  class Student{
        String name;
        int rollnumber;
        char grade;
